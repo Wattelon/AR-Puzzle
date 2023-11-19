@@ -18,7 +18,7 @@ public partial class ARMenu : MonoBehaviour
         UpdateButtons();
     }
 
-    private void UpdateButtons()
+    public void UpdateButtons()
     {
         for (int i = 0; i < root.childCount; i++)
         {
@@ -43,7 +43,6 @@ public partial class ARMenu : MonoBehaviour
     private void ProcessBuy(int price)
     {
         playerMoney.ProcessBuy(price);
-        UpdateButtons();
     }
 
     private IEnumerator UpdateCollection()

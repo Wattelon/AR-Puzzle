@@ -5,6 +5,7 @@ public class PlayerMoney : MonoBehaviour
 {
     [SerializeField] private int moneyAmount;
     [SerializeField] private TextMeshProUGUI moneyText;
+    [SerializeField] private ARMenu menu;
 
     private void Start()
     {
@@ -16,6 +17,7 @@ public class PlayerMoney : MonoBehaviour
         CanBuy(money);
         moneyAmount -= money;
         moneyText.text = $"Available money: {moneyAmount}";
+        menu.UpdateButtons();
     }
 
     public bool CanBuy(int price)

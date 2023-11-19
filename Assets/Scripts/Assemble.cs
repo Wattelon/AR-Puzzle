@@ -1,3 +1,4 @@
+using Microsoft.MixedReality.Toolkit.UI;
 using System;
 using UnityEngine;
 using Random = UnityEngine.Random;
@@ -19,6 +20,16 @@ public class Assemble : MonoBehaviour
 
     private void Start()
     {
+        foreach (var child in transform.GetComponentsInChildren<MeshRenderer>())
+        {
+            if (child.CompareTag("Item")) Destroy(child.gameObject);
+            else
+            {
+                child.enabled = true;
+                child.GetComponent<MeshCollider>().enabled = true;
+            }
+        }
+
         transform.position = new Vector3(Random.Range(-2f, 2f), 0, Random.Range(-2f, 2f));
         targetParts = Random.Range(minParts, maxParts);
         for (int i = 0; i < targetParts; i++)
@@ -26,7 +37,7 @@ public class Assemble : MonoBehaviour
             var randItem = config.Items[Random.Range(0, config.Items.Count)];
             partPrice += randItem.Price;
             var randPrefab = randItem.Prefab;
-            var randTransform = new Vector3(Random.Range(-0.1f, 0.1f), Random.Range(-0.1f, 0.1f), Random.Range(-0.1f, 0.1f));
+            var randTransform = new Vector3(Random.Range(-0.2f, 0.2f), Random.Range(-0.2f, 0.2f), Random.Range(-0.2f, 0.2f));
             var part = Instantiate(partPrefab, transform);
             part.transform.localPosition = randTransform;
             part.transform.rotation = Quaternion.Euler(new Vector3(Random.Range(-180, 180), Random.Range(-180, 180), Random.Range(-180, 180)));
@@ -34,6 +45,7 @@ public class Assemble : MonoBehaviour
             part.GetComponent<MeshFilter>().mesh = partMesh;
             part.GetComponent<MeshCollider>().sharedMesh = partMesh;
         }
+        targetParts = transform.childCount;
     }
 
     private void CompleteAssemble()
@@ -41,5 +53,7 @@ public class Assemble : MonoBehaviour
         int earned = (int)(partPrice * Math.Pow(1.1, targetParts));
         FindObjectOfType<PlayerMoney>().ProcessBuy(-earned);
         Instantiate(assemble);
+        GetComponent<BoxCollider>().enabled = true;
+        GetComponent<ObjectManipulator>().enabled = true;
     }
 }

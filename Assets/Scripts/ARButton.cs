@@ -19,7 +19,11 @@ using UnityEngine;
 
         private void ProcessClick()
         {
-            Instantiate(_prefab, transform.position, Quaternion.identity);
+            var prefab = Instantiate(_prefab, transform.position, Quaternion.identity);
+            var meshRenderer = prefab.GetComponent<MeshRenderer>();
+            var material = new Material(meshRenderer.material);
+            material.color = UnityEngine.Random.ColorHSV(0, 1, 0, 1, 0.5f, 1);
+            meshRenderer.material = material;
             OnButtonClicked?.Invoke();
         }
     }
