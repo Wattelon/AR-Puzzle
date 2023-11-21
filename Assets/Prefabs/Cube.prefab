@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 5337835355599016176}
   - component: {fileID: 5337835355599016179}
   - component: {fileID: 5337835355599016178}
+  - component: {fileID: 4963345987609890617}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Item
@@ -179,3 +180,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShowTetherWhenManipulating: 0
   IsBoundsHandles: 0
+--- !u!114 &4963345987609890617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5337835355599016181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 699a6cf51addeac419a20b2a34997a34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  extendsIslandOffset: 1

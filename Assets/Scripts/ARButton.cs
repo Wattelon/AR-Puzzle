@@ -23,7 +23,7 @@ using UnityEngine;
             var meshRenderer = prefab.GetComponent<MeshRenderer>();
             var material = new Material(meshRenderer.material);
             material.color = UnityEngine.Random.ColorHSV(0, 1, 0, 1, 0.5f, 1);
-            meshRenderer.material = material;
+            //meshRenderer.material = material;
             OnButtonClicked?.Invoke();
         }
     }

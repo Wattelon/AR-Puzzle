@@ -1,6 +1,4 @@
 using Microsoft.MixedReality.Toolkit.UI;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class InteractableSlot : MonoBehaviour
@@ -21,7 +19,7 @@ public class InteractableSlot : MonoBehaviour
             if (_mesh == filter.sharedMesh)
             {
                 other.GetComponent<ObjectManipulator>().enabled = false;
-                other.GetComponent<Collider>().enabled = false;
+                other.gameObject.layer = 9;
                 other.transform.SetParent(transform);
                 other.transform.localPosition = Vector3.zero;
                 other.transform.localRotation = Quaternion.identity;

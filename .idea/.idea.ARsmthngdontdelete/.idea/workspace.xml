@@ -1,113 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f8f85afd-61f5-448c-a527-227e928fff72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/DebrisParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/DebrisParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Dust.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Dust.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Embers.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Embers.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/EnergyExplosion.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/EnergyExplosion.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/EnergyShockwave.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/EnergyShockwave.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Explosion.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Explosion.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/ExplosionDistortion.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/ExplosionDistortion.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/FireExplosion.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/FireExplosion.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Flame03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Flame03.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Flame04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Flame04.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/LargeFlame01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/LargeFlame01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/LargeFlame02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/LargeFlame02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Lightning.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/Lightning.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/MediumFlame01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/MediumFlame01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/MediumFlame02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/MediumFlame02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/MediumFlame03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/MediumFlame03.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/PlasmaExplosion.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/PlasmaExplosion.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/SandParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/SandParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/SmokeDark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/SmokeDark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/TinyFlame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/TinyFlame.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/fireball.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Materials/fireball.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Goop Effects/Materials/GoopPoolParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Goop Effects/Materials/GoopPoolParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Goop Effects/Materials/GoopSplashParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Goop Effects/Materials/GoopSplashParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Goop Effects/Materials/GoopSplatParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Goop Effects/Materials/GoopSplatParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Goop Effects/Materials/GoopStreamParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Goop Effects/Materials/GoopStreamParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/EarthCrack.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/EarthCrack.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/Embers.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/Embers.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/Fireball.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/Fireball.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/IceMist.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/IceMist.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/IceTrail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/IceTrail.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/RockDust.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/RockDust.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/RockSpike.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Magic Effects/Materials/RockSpike.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/CandleFlame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/CandleFlame.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/DissolveChunks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/DissolveChunks.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/ElectricalSparks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/ElectricalSparks.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/Embers.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/Embers.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/FireFlyTrail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/FireFlyTrail.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/SmokePuff.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/SmokePuff.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/Sparks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/Sparks.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/SpawnTrail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/SpawnTrail.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/candle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Materials/candle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Dust.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Dust.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Embers.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Embers.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Flame01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Flame01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/GroundFog.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/GroundFog.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/HeatDistortion.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/HeatDistortion.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/RockDebris.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/RockDebris.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SandParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SandParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Smoke02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Smoke02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SmokeLight.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SmokeLight.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SmokeySteam01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SmokeySteam01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SmokeySteam02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SmokeySteam02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SmokeySteam03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/SmokeySteam03.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Twinkle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/Twinkle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/wispySmoke.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Smoke &amp; Steam Effects/Materials/wispySmoke.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/Splash.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/Splash.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/Splash02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/Splash02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/Water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/Water.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/WaterDropBig.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/WaterDropBig.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/WaterDropSmall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/WaterDropSmall.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/WaterFog.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/WaterFog.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/WaterRipple.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Water Effects/Materials/WaterRipple.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ARsmthngdontdelete/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ARsmthngdontdelete/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Prefabs/BigExplosion.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Prefabs/BigExplosion.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Prefabs/PlasmaExplosionEffect.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Fire &amp; Explosion Effects/Prefabs/PlasmaExplosionEffect.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Prefabs/ElectricalSparks.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Misc Effects/Prefabs/ElectricalSparks.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalMetal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalMetal.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalSand.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalSand.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalStone.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalStone.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalWood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletDecalWood.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletFleshDecal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/BulletFleshDecal.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/DustPuffParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/DustPuffParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/FleshSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/FleshSurface.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/GoopSplat2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/GoopSplat2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/GoopStreak.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/GoopStreak.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/MetalSparks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/MetalSparks.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/MetalSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/MetalSurface.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/MuzzleFlash01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/MuzzleFlash01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/RockDebris.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/RockDebris.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/SandSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/SandSurface.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/StoneSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/StoneSurface.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/TinyStonesParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/TinyStonesParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/WaterStreamParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/WaterStreamParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/WoodSplintersParticle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/WoodSplintersParticle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/WoodSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Materials/WoodSurface.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MRTK/Shaders/MixedRealityStandard.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MRTK/Shaders/MixedRealityStandard.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Holo.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Holo.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Chair.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Chair.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Sofa.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Sofa.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Table.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Table.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Readme.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Readme.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Lines/Materials/OpaqueLinesMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Lines/Materials/OpaqueLinesMaterial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Lines/Materials/TransparentLinesMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Lines/Materials/TransparentLinesMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/FleshImpacts.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/FleshImpacts.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/MetalImpacts.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/MetalImpacts.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/SandImpacts.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/SandImpacts.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/StoneImpacts.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/StoneImpacts.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/WoodImpacts.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EffectExamples/Weapon Effects/Prefabs/WoodImpacts.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Part.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Part.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Button.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Button.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Capsule.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Capsule.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cube.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cylinder.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cylinder.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Profiles/New MixedRealityToolkitConfigurationProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Profiles/New MixedRealityToolkitConfigurationProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - ScrollingObjectCollection/Prefabs/DynamicScrollPopulator.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - ScrollingObjectCollection/Prefabs/DynamicScrollPopulator.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - ScrollingObjectCollection/Prefabs/ScrollingOC_PressableBtn_32x96.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - ScrollingObjectCollection/Prefabs/ScrollingOC_PressableBtn_32x96.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - ScrollingObjectCollection/Scenes/ScrollingObjectCollection.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - ScrollingObjectCollection/Scenes/ScrollingObjectCollection.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - SpatialAwareness/Scenes/SpatialAwarenessMeshDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - SpatialAwareness/Scenes/SpatialAwarenessMeshDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/BoundingBox/Scenes/BoundingBoxExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/BoundingBox/Scenes/BoundingBoxExamples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/BoundingBox/Scenes/BoundingBoxRuntimeExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/BoundingBox/Scenes/BoundingBoxRuntimeExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/BoundsControl/Scenes/BoundsControlExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/BoundsControl/Scenes/BoundsControlExamples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/BoundsControl/Scenes/BoundsControlRuntimeExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/BoundsControl/Scenes/BoundsControlRuntimeExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Collections/Scenes/ObjectCollectionExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Collections/Scenes/ObjectCollectionExamples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Dialog/Scenes/DialogExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Dialog/Scenes/DialogExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Dwell/DwellExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Dwell/DwellExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Interactables/Scenes/InteractablesExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Interactables/Scenes/InteractablesExamples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Lines/Scenes/LineExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Lines/Scenes/LineExamples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ManipulationHandler/Scenes/ManipulationHandlerExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ManipulationHandler/Scenes/ManipulationHandlerExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ObjectManipulator/Scenes/ObjectManipulatorExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ObjectManipulator/Scenes/ObjectManipulatorExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ObjectManipulator/Scenes/ObjectManipulatorExamplePhysics.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ObjectManipulator/Scenes/ObjectManipulatorExamplePhysics.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/PressableButton/Scenes/PressableButtonExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/PressableButton/Scenes/PressableButtonExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ProgressIndicator/Scenes/ProgressIndicatorExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ProgressIndicator/Scenes/ProgressIndicatorExamples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ProgressIndicator/Scenes/ProgressIndicatorExamplesSettings.lighting" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ProgressIndicator/Scenes/ProgressIndicatorExamplesSettings.lighting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ProgressIndicator/Scenes/ProgressIndicatorExamplesSettings.lighting.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/ProgressIndicator/Scenes/ProgressIndicatorExamplesSettings.lighting.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Slate/SlateExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Slate/SlateExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Slider/Scenes/SliderExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Slider/Scenes/SliderExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Text/Scenes/TextPrefabExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Text/Scenes/TextPrefabExamples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Tooltips/Scenes/TooltipExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - UX/Tooltips/Scenes/TooltipExamples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Experimental - SceneUnderstanding/Scenes/SceneUnderstandingExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Experimental - SceneUnderstanding/Scenes/SceneUnderstandingExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/ConcreteFloor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/ConcreteFloor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/ConcreteWall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/ConcreteWall.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/Light.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/Light.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/LinesWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/LinesWhite.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/MetalRailing.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/MetalRailing.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/MetalTrim.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/MetalTrim.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/ShadowCaster.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/ShadowCaster.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/UnityLogo.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Environment/Materials/UnityLogo.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ARButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ARButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InteractableSlot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InteractableSlot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shared/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shared/Prefabs/WorldSpaceLabel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shared/Prefabs/WorldSpaceLabel.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,12 +67,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PaintManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Paintable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Painter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@f2323a9b7aec/Core/Utilities/StandardShader/ClippingPrimitive.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.9/Shaders/Particles/ParticlesLit.shader" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c554c9a6609f4616bef25540158de33c26400/e2/06480ee2/ParticlePhysicsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2YIIMCQN2GPV2dG8gPrDXE43yS7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -131,10 +88,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "experiments",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -192,8 +155,14 @@
       <option name="presentableId" value="Default" />
       <updated>1700206619485</updated>
       <workItem from="1700206620908" duration="7000" />
+      <workItem from="1700481074456" duration="5392000" />
+      <workItem from="1700494923550" duration="1462000" />
+      <workItem from="1700590373216" duration="2970000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
