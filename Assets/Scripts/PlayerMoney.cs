@@ -4,7 +4,7 @@ using UnityEngine;
 public class PlayerMoney : MonoBehaviour
 {
     [SerializeField] private int moneyAmount;
-    [SerializeField] private TextMeshProUGUI moneyText;
+    [SerializeField] private TextMeshPro moneyText;
     [SerializeField] private ARMenu menu;
 
     private void Start()

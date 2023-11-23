@@ -30,7 +30,7 @@ public class Assemble : MonoBehaviour
             }
         }
 
-        transform.position = new Vector3(Random.Range(-2f, 2f), 0, Random.Range(-2f, 2f));
+        transform.position = new Vector3(Random.Range(-1.5f, 1.5f), 0.2f, Random.Range(-1.5f, 1.5f));
         targetParts = Random.Range(minParts, maxParts);
         for (int i = 0; i < targetParts; i++)
         {
