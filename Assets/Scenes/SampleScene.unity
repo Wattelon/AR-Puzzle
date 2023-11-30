@@ -2096,8 +2096,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 831844952387909122}
   - {fileID: 6013460646052642802}
@@ -3249,7 +3249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   renderers: []
-  clippingSide: -1
+  clippingSide: 1
   useOnPreRender: 1
   applyToSharedMaterial: 0
   cacheSharedMaterialsFromRenderer: 0
@@ -4130,14 +4130,14 @@ MonoBehaviour:
   lifetime: 0
   referenceDirection: 1
   minDistance: 0.3
-  maxDistance: 0.3
+  maxDistance: 1
   minViewDegrees: 0
   maxViewDegrees: 20
   aspectV: 1
   ignoreAngleClamp: 0
   ignoreDistanceClamp: 0
   useFixedVerticalPosition: 1
-  fixedVerticalPosition: -0.1
+  fixedVerticalPosition: -0.3
   orientToReferenceDirection: 0
 --- !u!114 &8845082974067581208
 MonoBehaviour:

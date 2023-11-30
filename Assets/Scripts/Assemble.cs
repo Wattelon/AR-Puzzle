@@ -30,7 +30,7 @@ public class Assemble : MonoBehaviour
             }
         }
 
-        transform.position = new Vector3(Random.Range(-2f, 2f), 0, Random.Range(-2f, 2f));
+        transform.position = new Vector3(Random.Range(-1f, 1f), 0, Random.Range(-1f, 1f));
         targetParts = Random.Range(minParts, maxParts);
         for (int i = 0; i < targetParts; i++)
         {
@@ -50,7 +50,7 @@ public class Assemble : MonoBehaviour
 
     private void CompleteAssemble()
     {
-        int earned = (int)(partPrice * Math.Pow(1.1, targetParts));
+        int earned = (int)(partPrice * Math.Pow(1.2, targetParts));
         FindObjectOfType<PlayerMoney>().ProcessBuy(-earned);
         Instantiate(assemble);
         GetComponent<BoxCollider>().enabled = true;
